@@ -1,0 +1,50 @@
+body{
+  background-color: #6D9886;
+
+}
+.heading,.moto
+{
+  font-family: 'Lobster', cursive;
+  text-align: center;
+
+  color: #334756;
+
+
+}
+.heading{
+    padding:5% 3% 0%;
+    font-size: 8rem;
+    text-shadow: 2px 2px #000000;
+}
+.moto{
+  font-size: 2rem;
+  padding: 0% 3% 2%;
+
+}
+
+.dice1,.dice2{
+text-align: center;
+font-family: 'Lobster', cursive;
+font-weight: lighter;
+}
+.container
+{
+  width:60%;
+}
+.player{
+  color: #334756;
+  opacity: 0.7;
+}
+
+.img1,.img2
+{
+  width:40%;
+  height:80%;
+}
+footer
+{
+  padding-top: 5%;
+  opacity: 0.7;
+  text-align: center;
+  font-family: 'Montserrat';
+}
